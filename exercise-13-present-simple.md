@@ -4,12 +4,6 @@
 
 Fill in the blanks with the correct form of the verb given in brackets.
 
-Use:
-
-* Positive Sentences
-* Negative Sentences
-* Yes/No Questions
-
 Remember:
 
 Positive Sentences - 
