@@ -139,7 +139,6 @@ Positive Sentence
 Negative Sentence
 
 Yes/No Question
-----------------
 
 1. She studies English.
 
