@@ -6,126 +6,127 @@ Fill in the blanks with the correct form of the verb given in brackets.
 
 Remember:
 
-Positive Sentences - 
+Positive Sentences -
 Use the base form of the verb with I, We, You, They.
 Add s/es with He, She, It.
 
-Negative Sentences - 
-* **I, We, You, They** → do / do not
-* **He, She, It** → does / does not
-* After **do/does**, use the **base form** of the verb.
+Negative Sentences -
+
+- **I, We, You, They** → do / do not
+- **He, She, It** → does / does not
+- After **do/does**, use the **base form** of the verb.
 
 ---
 
 ## 📝 Positive Sentences (1–20)
 
-1. She ______ (read) a book every night.
+1. She **\_\_** (read) a book every night.
 
-2. They ______ (play) football after school.
+2. They **\_\_** (play) football after school.
 
-3. He ______ (watch) television in the evening.
+3. He **\_\_** (watch) television in the evening.
 
-4. We ______ (go) to the market every Sunday.
+4. We **\_\_** (go) to the market every Sunday.
 
-5. My father ______ (drive) to work every day.
+5. My father **\_\_** (drive) to work every day.
 
-6. I ______ (drink) milk every morning.
+6. I **\_\_** (drink) milk every morning.
 
-7. The boys ______ (study) English together.
+7. The boys **\_\_** (study) English together.
 
-8. She ______ (wash) her hands before meals.
+8. She **\_\_** (wash) her hands before meals.
 
-9. You ______ (write) neatly.
+9. You **\_\_** (write) neatly.
 
-10. The sun ______ (rise) in the east.
+10. The sun **\_\_** (rise) in the east.
 
-11. He ______ (eat) breakfast at 7 a.m.
+11. He **\_\_** (eat) breakfast at 7 a.m.
 
-12. We ______ (visit) our grandparents every month.
+12. We **\_\_** (visit) our grandparents every month.
 
-13. It ______ (rain) heavily during the monsoon.
+13. It **\_\_** (rain) heavily during the monsoon.
 
-14. They ______ (help) their parents at home.
+14. They **\_\_** (help) their parents at home.
 
-15. She ______ (carry) her books to school.
+15. She **\_\_** (carry) her books to school.
 
-16. I ______ (listen) to music in my free time.
+16. I **\_\_** (listen) to music in my free time.
 
-17. Rahul ______ (play) cricket on weekends.
+17. Rahul **\_\_** (play) cricket on weekends.
 
-18. We ______ (learn) new things every day.
+18. We **\_\_** (learn) new things every day.
 
-19. The teacher ______ (teach) Mathematics.
+19. The teacher **\_\_** (teach) Mathematics.
 
-20. The dog ______ (bark) at strangers.
+20. The dog **\_\_** (bark) at strangers.
 
 ---
 
 ## 📝 Negative Sentences (21–35)
 
-21. She ______ not ______ (read) newspapers daily.
+21. She **\_\_** not **\_\_** (read) newspapers daily.
 
-22. They ______ not ______ (play) cricket on Mondays.
+22. They **\_\_** not **\_\_** (play) cricket on Mondays.
 
-23. He ______ not ______ (watch) movies at night.
+23. He **\_\_** not **\_\_** (watch) movies at night.
 
-24. We ______ not ______ (go) out during exams.
+24. We **\_\_** not **\_\_** (go) out during exams.
 
-25. My father ______ not ______ (drive) on Sundays.
+25. My father **\_\_** not **\_\_** (drive) on Sundays.
 
-26. I ______ not ______ (drink) coffee.
+26. I **\_\_** not **\_\_** (drink) coffee.
 
-27. The students ______ not ______ (study) French.
+27. The students **\_\_** not **\_\_** (study) French.
 
-28. She ______ not ______ (wash) the car every week.
+28. She **\_\_** not **\_\_** (wash) the car every week.
 
-29. You ______ not ______ (write) with a pencil.
+29. You **\_\_** not **\_\_** (write) with a pencil.
 
-30. The baby ______ not ______ (sleep) during the day.
+30. The baby **\_\_** not **\_\_** (sleep) during the day.
 
-31. He ______ not ______ (eat) spicy food.
+31. He **\_\_** not **\_\_** (eat) spicy food.
 
-32. We ______ not ______ (visit) the mall often.
+32. We **\_\_** not **\_\_** (visit) the mall often.
 
-33. It ______ not ______ (rain) in summer.
+33. It **\_\_** not **\_\_** (rain) in summer.
 
-34. They ______ not ______ (help) with household chores.
+34. They **\_\_** not **\_\_** (help) with household chores.
 
-35. Rahul ______ not ______ (play) tennis.
+35. Rahul **\_\_** not **\_\_** (play) tennis.
 
 ---
 
 ## 📝 Yes/No Questions (36–50)
 
-36. ______ she ______ (read) storybooks?
+36. **\_\_** she **\_\_** (read) storybooks?
 
-37. ______ they ______ (play) football every day?
+37. **\_\_** they **\_\_** (play) football every day?
 
-38. ______ he ______ (watch) cartoons?
+38. **\_\_** he **\_\_** (watch) cartoons?
 
-39. ______ we ______ (go) to school together?
+39. **\_\_** we **\_\_** (go) to school together?
 
-40. ______ your father ______ (drive) a car?
+40. **\_\_** your father **\_\_** (drive) a car?
 
-41. ______ you ______ (drink) milk every morning?
+41. **\_\_** you **\_\_** (drink) milk every morning?
 
-42. ______ the students ______ (study) English?
+42. **\_\_** the students **\_\_** (study) English?
 
-43. ______ she ______ (wash) her hands before meals?
+43. **\_\_** she **\_\_** (wash) her hands before meals?
 
-44. ______ the sun ______ (rise) in the east?
+44. **\_\_** the sun **\_\_** (rise) in the east?
 
-45. ______ he ______ (eat) breakfast at home?
+45. **\_\_** he **\_\_** (eat) breakfast at home?
 
-46. ______ they ______ (help) their parents?
+46. **\_\_** they **\_\_** (help) their parents?
 
-47. ______ Rahul ______ (play) cricket?
+47. **\_\_** Rahul **\_\_** (play) cricket?
 
-48. ______ the teacher ______ (teach) Science?
+48. **\_\_** the teacher **\_\_** (teach) Science?
 
-49. ______ the dog ______ (bark) loudly?
+49. **\_\_** the dog **\_\_** (bark) loudly?
 
-50. ______ it ______ (rain) during the monsoon?
+50. **\_\_** it **\_\_** (rain) during the monsoon?
 
 ---
 
@@ -133,12 +134,12 @@ Negative Sentences -
 
 Convert the following into:
 
-1. Positive Sentence
+Positive Sentence
 
-2. Negative Sentence
+Negative Sentence
 
-3. Yes/No Question
-
+Yes/No Question
+----------------
 
 1. She studies English.
 
@@ -150,55 +151,55 @@ Convert the following into:
 
 5. We visit our grandparents regularly.
 
-
 ## ------ More Questions -------
-She ______ (read) a book every night.
-They ______ (play) football after school.
-He ______ (watch) television in the evening.
-We ______ (go) to the market every Sunday.
-My father ______ (drive) to work every day.
-I ______ (drink) milk every morning.
-The boys ______ (study) English together.
-She ______ (wash) her hands before meals.
-You ______ (write) neatly.
-The sun ______ (rise) in the east.
-He ______ (eat) breakfast at 7 a.m.
-We ______ (visit) our grandparents every month.
-It ______ (rain) heavily during the monsoon.
-They ______ (help) their parents at home.
-She ______ (carry) her books to school.
-I ______ (listen) to music in my free time.
-Rahul ______ (play) cricket on weekends.
-We ______ (learn) new things every day.
-The teacher ______ (teach) Mathematics.
-You ______ (speak) English very well.
-She ______ (clean) her room every Saturday.
-They ______ (walk) to school daily.
-He ______ (fix) computers.
-I ______ (enjoy) reading storybooks.
-The dog ______ (bark) at strangers.
-We ______ (eat) dinner together.
-She ______ (dance) beautifully.
-The children ______ (run) in the playground.
-He ______ (study) hard for exams.
-You ______ (work) very efficiently.
-The train ______ (arrive) at 8 o'clock.
-They ______ (buy) vegetables every week.
-My mother ______ (cook) delicious food.
-I ______ (wake) up at 6 a.m.
-The students ______ (complete) their homework.
-She ______ (go) to the library regularly.
-We ______ (watch) educational videos.
-He ______ (brush) his teeth twice a day.
-They ______ (swim) every summer.
-The baby ______ (sleep) peacefully.
-I ______ (write) in my diary every day.
-She ______ (sing) in the school choir.
-We ______ (practice) yoga every morning.
-He ______ (catch) the bus at 7 a.m.
-They ______ (visit) the mosque every Friday.
-The bird ______ (fly) across the sky.
-You ______ (help) your friends whenever needed.
-She ______ (wear) her school uniform neatly.
-We ______ (play) indoor games during recess.
-The shop ______ (open) at 9 a.m.
+
+She **\_\_** (read) a book every night.
+They **\_\_** (play) football after school.
+He **\_\_** (watch) television in the evening.
+We **\_\_** (go) to the market every Sunday.
+My father **\_\_** (drive) to work every day.
+I **\_\_** (drink) milk every morning.
+The boys **\_\_** (study) English together.
+She **\_\_** (wash) her hands before meals.
+You **\_\_** (write) neatly.
+The sun **\_\_** (rise) in the east.
+He **\_\_** (eat) breakfast at 7 a.m.
+We **\_\_** (visit) our grandparents every month.
+It **\_\_** (rain) heavily during the monsoon.
+They **\_\_** (help) their parents at home.
+She **\_\_** (carry) her books to school.
+I **\_\_** (listen) to music in my free time.
+Rahul **\_\_** (play) cricket on weekends.
+We **\_\_** (learn) new things every day.
+The teacher **\_\_** (teach) Mathematics.
+You **\_\_** (speak) English very well.
+She **\_\_** (clean) her room every Saturday.
+They **\_\_** (walk) to school daily.
+He **\_\_** (fix) computers.
+I **\_\_** (enjoy) reading storybooks.
+The dog **\_\_** (bark) at strangers.
+We **\_\_** (eat) dinner together.
+She **\_\_** (dance) beautifully.
+The children **\_\_** (run) in the playground.
+He **\_\_** (study) hard for exams.
+You **\_\_** (work) very efficiently.
+The train **\_\_** (arrive) at 8 o'clock.
+They **\_\_** (buy) vegetables every week.
+My mother **\_\_** (cook) delicious food.
+I **\_\_** (wake) up at 6 a.m.
+The students **\_\_** (complete) their homework.
+She **\_\_** (go) to the library regularly.
+We **\_\_** (watch) educational videos.
+He **\_\_** (brush) his teeth twice a day.
+They **\_\_** (swim) every summer.
+The baby **\_\_** (sleep) peacefully.
+I **\_\_** (write) in my diary every day.
+She **\_\_** (sing) in the school choir.
+We **\_\_** (practice) yoga every morning.
+He **\_\_** (catch) the bus at 7 a.m.
+They **\_\_** (visit) the mosque every Friday.
+The bird **\_\_** (fly) across the sky.
+You **\_\_** (help) your friends whenever needed.
+She **\_\_** (wear) her school uniform neatly.
+We **\_\_** (play) indoor games during recess.
+The shop **\_\_** (open) at 9 a.m.
