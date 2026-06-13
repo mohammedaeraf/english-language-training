@@ -150,55 +150,58 @@ Yes/No Question
 
 5. We visit our grandparents regularly.
 
-## ------ More Questions -------
 
-She **\_\_** (read) a book every night.
-They **\_\_** (play) football after school.
-He **\_\_** (watch) television in the evening.
-We **\_\_** (go) to the market every Sunday.
-My father **\_\_** (drive) to work every day.
-I **\_\_** (drink) milk every morning.
-The boys **\_\_** (study) English together.
-She **\_\_** (wash) her hands before meals.
-You **\_\_** (write) neatly.
-The sun **\_\_** (rise) in the east.
-He **\_\_** (eat) breakfast at 7 a.m.
-We **\_\_** (visit) our grandparents every month.
-It **\_\_** (rain) heavily during the monsoon.
-They **\_\_** (help) their parents at home.
-She **\_\_** (carry) her books to school.
-I **\_\_** (listen) to music in my free time.
-Rahul **\_\_** (play) cricket on weekends.
-We **\_\_** (learn) new things every day.
-The teacher **\_\_** (teach) Mathematics.
-You **\_\_** (speak) English very well.
-She **\_\_** (clean) her room every Saturday.
-They **\_\_** (walk) to school daily.
-He **\_\_** (fix) computers.
-I **\_\_** (enjoy) reading storybooks.
-The dog **\_\_** (bark) at strangers.
-We **\_\_** (eat) dinner together.
-She **\_\_** (dance) beautifully.
-The children **\_\_** (run) in the playground.
-He **\_\_** (study) hard for exams.
-You **\_\_** (work) very efficiently.
-The train **\_\_** (arrive) at 8 o'clock.
-They **\_\_** (buy) vegetables every week.
-My mother **\_\_** (cook) delicious food.
-I **\_\_** (wake) up at 6 a.m.
-The students **\_\_** (complete) their homework.
-She **\_\_** (go) to the library regularly.
-We **\_\_** (watch) educational videos.
-He **\_\_** (brush) his teeth twice a day.
-They **\_\_** (swim) every summer.
-The baby **\_\_** (sleep) peacefully.
-I **\_\_** (write) in my diary every day.
-She **\_\_** (sing) in the school choir.
-We **\_\_** (practice) yoga every morning.
-He **\_\_** (catch) the bus at 7 a.m.
-They **\_\_** (visit) the mosque every Friday.
-The bird **\_\_** (fly) across the sky.
-You **\_\_** (help) your friends whenever needed.
-She **\_\_** (wear) her school uniform neatly.
-We **\_\_** (play) indoor games during recess.
-The shop **\_\_** (open) at 9 a.m.
+## 📘 Full Questions List
+
+### Fill in the Blanks (Simple Present Tense)
+
+1. She ****\_**** (read) a book every night.
+2. They ****\_**** (play) football after school.
+3. He ****\_**** (watch) television in the evening.
+4. We ****\_**** (go) to the market every Sunday.
+5. My father ****\_**** (drive) to work every day.
+6. I ****\_**** (drink) milk every morning.
+7. The boys ****\_**** (study) English together.
+8. She ****\_**** (wash) her hands before meals.
+9. You ****\_**** (write) neatly.
+10. The sun ****\_**** (rise) in the east.
+11. He ****\_**** (eat) breakfast at 7 a.m.
+12. We ****\_**** (visit) our grandparents every month.
+13. It ****\_**** (rain) heavily during the monsoon.
+14. They ****\_**** (help) their parents at home.
+15. She ****\_**** (carry) her books to school.
+16. I ****\_**** (listen) to music in my free time.
+17. Rahul ****\_**** (play) cricket on weekends.
+18. We ****\_**** (learn) new things every day.
+19. The teacher ****\_**** (teach) Mathematics.
+20. You ****\_**** (speak) English very well.
+21. She ****\_**** (clean) her room every Saturday.
+22. They ****\_**** (walk) to school daily.
+23. He ****\_**** (fix) computers.
+24. I ****\_**** (enjoy) reading storybooks.
+25. The dog ****\_**** (bark) at strangers.
+26. We ****\_**** (eat) dinner together.
+27. She ****\_**** (dance) beautifully.
+28. The children ****\_**** (run) in the playground.
+29. He ****\_**** (study) hard for exams.
+30. You ****\_**** (work) very efficiently.
+31. The train ****\_**** (arrive) at 8 o'clock.
+32. They ****\_**** (buy) vegetables every week.
+33. My mother ****\_**** (cook) delicious food.
+34. I ****\_**** (wake) up at 6 a.m.
+35. The students ****\_**** (complete) their homework.
+36. She ****\_**** (go) to the library regularly.
+37. We ****\_**** (watch) educational videos.
+38. He ****\_**** (brush) his teeth twice a day.
+39. They ****\_**** (swim) every summer.
+40. The baby ****\_**** (sleep) peacefully.
+41. I ****\_**** (write) in my diary every day.
+42. She ****\_**** (sing) in the school choir.
+43. We ****\_**** (practice) yoga every morning.
+44. He ****\_**** (catch) the bus at 7 a.m.
+45. They ****\_**** (visit) the mosque every Friday.
+46. The bird ****\_**** (fly) across the sky.
+47. You ****\_**** (help) your friends whenever needed.
+48. She ****\_**** (wear) her school uniform neatly.
+49. We ****\_**** (play) indoor games during recess.
+50. The shop ****\_**** (open) at 9 a.m.
