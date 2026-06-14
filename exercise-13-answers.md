@@ -146,26 +146,3 @@ For each sentence, the Positive Sentence is already given. The task is to write 
 
 * Do we visit our grandparents regularly?
 
----
-
-# 📝 Summary Pattern
-
-| Positive                             | Negative                                    | Yes/No Question                         |
-| ------------------------------------ | ------------------------------------------- | --------------------------------------- |
-| She studies English.                 | She does not study English.                 | Does she study English?                 |
-| They play football.                  | They do not play football.                  | Do they play football?                  |
-| Rahul drives a car.                  | Rahul does not drive a car.                 | Does Rahul drive a car?                 |
-| The teacher teaches Mathematics.     | The teacher does not teach Mathematics.     | Does the teacher teach Mathematics?     |
-| We visit our grandparents regularly. | We do not visit our grandparents regularly. | Do we visit our grandparents regularly? |
-
-### 🎯 Remember
-
-* **He / She / It / Singular Noun** → **does / does not**
-* **I / We / You / They / Plural Noun** → **do / do not**
-* After **do** or **does**, always use the **base form of the verb**.
-
-✅ She **studies** English.
-✅ She **does not study** English.
-✅ **Does** she **study** English?
-
-❌ Does she studies English?
